@@ -5,3 +5,5 @@
 ## 初赛 Writeup
 
 [xd1ddw](./xd1ddw.md)
+
+[xdlddw](https://miaotony.xyz/2022/05/31/CTF_2022CISCN_preliminary/?utm_source=github)
